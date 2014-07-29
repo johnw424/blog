@@ -6,11 +6,11 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            John Wang.1
+title:            John Wang
 tagline:          'Full-Stack Software Engineer'
 description:      'Full-Stack Software Engineer'
 url:              http://johnw424.github.io/blog/
-baseurl:          /
+baseurl:          http://johnw424.github.io/blog/
 
 author:
   name:           'John Wang'
