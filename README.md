@@ -1,0 +1,1 @@
+This is John's [blog](https://johnwang.io) built on [@mdo](https://twitter.com/mdo)'s [Hyde](https://github.com/poole/hyde) theme for [Jekyll](http://jekyllrb.com).

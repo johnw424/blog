@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            John Wang
+tagline:          'Full-Stack Software Engineer'
+description:      'Full-Stack Software Engineer'
+url:              http://johnwang.io
+baseurl:          /
+
+author:
+  name:           'John Wang'
+  url:            http://johnwang.io
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/johnw424/blog
